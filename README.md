@@ -1,4 +1,4 @@
-# Simple Spring Boot Backend
+Spring Boot Backend
 
 This is a small backend made with Spring Boot and H2 database. It just runs a basic server.
 
